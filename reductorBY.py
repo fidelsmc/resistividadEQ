@@ -11,8 +11,8 @@ logging.info(" ########## INICIO DE CALCULO ##########")
 
 # Configurable por el Usuario
 A=10110.3025 #area en m2
-b=0.6 # profundudad de malla m
-rho=(719,2480,481,41512) #resistividad de las capas ohm-m
+b=0.6 # profundidad de malla m
+rho=(719,2480,481,41512) #resistividad de las capas ohm-m (capa1,capa2....,capan)
 d=(3.01,5,50.10,999999) #profundidad de las capas en m
 
 ##############################################################################
